@@ -5,6 +5,8 @@
 
 # Prerequisites:
 # - You must have a github account
+# - You must have authenticated gh with gh auth login
+# = You must set your github_username variable to your github username
 # - You must have set the git config variables
 #   using git config --global user.name "Your Name" and git config -- global user.email "email@example.com"
 # - Your ssh key must have been created and set in github.com with r/w permissions
