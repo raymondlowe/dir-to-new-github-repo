@@ -16,7 +16,7 @@
 # ./dir-to-rep.sh <dir-to-copy> 
 
 
-GITHUB_USERNAME=$(git config --global github.user)
+GITHUB_USERNAME=raymondlowe
 
 # Get the first parameter as the name of the dir
 DIR_OF_REPO=$1
