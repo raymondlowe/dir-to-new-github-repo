@@ -39,3 +39,4 @@ git remote add origin git@github.com:$GITHUB_USERNAME/$1.git
 # force upload git
 git push -u origin master
 
+cd ..
